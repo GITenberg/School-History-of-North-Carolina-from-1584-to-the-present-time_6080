@@ -1,5 +1,5 @@
 _repo: School-History-of-North-Carolina-from-1584-to-the-present-time_6080
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -24,5 +24,6 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcc 'F206'
 - !lcsh 'North Carolina -- History'
+- GITenberg
 title: 'School History of North Carolina : from 1584 to the present time'
 url: http://www.gutenberg.org/ebooks/6080
